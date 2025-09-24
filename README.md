@@ -1,4 +1,4 @@
-# Hi there, I'm Thanmayee Kandula! 👋  
+# Hi there, I'm Thanmayee! 👋  
 
 🎓 Master's in Computer Science from **Texas Tech University, Lubbock, TX**  
 💻 Software Engineer | Full Stack Developer | Generative AI Enthusiast | AWS  
