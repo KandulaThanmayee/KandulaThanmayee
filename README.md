@@ -24,7 +24,7 @@ When I’m not building or debugging, you’ll probably find me:
 ---
 
 📫 Let’s connect:  
-- [LinkedIn](https://www.linkedin.com/in/thanmayeek)  
+- Email:thanmayee.tr@gmail.com
 - [GitHub](https://github.com/KandulaThanmayee)  
 
 💡 Always open to collaborating on exciting projects, learning new tech, and making meaningful impact.  
